@@ -1,13 +1,13 @@
-# Démarche créative de la conception de la page d'incription
+# Démarche créative de la page d'incription
 
 ## Choix de couleurs
 
-Le design global est minimaliste et moderne axé sur les parties interactives\
-Il permet à l'utilisateur de rester focus sur l'esssentiel en limitant les éléments purement décoratifs qui peuvent distraire l'utilisateur\
+Le design global est minimaliste et moderne axé sur les parties interactives
+Il permet à l'utilisateur de rester focus sur l'esssentiel en limitant les éléments purement décoratifs qui peuvent distraire l'utilisateur
 
 ### `police`
 Nous avons opté pour la police Source Sans Pro en raison de sa facilité de lecture
-Runs the app in the development mode.\
+Runs the app in the development mode.
 
 ### `bordures`
 
@@ -15,7 +15,7 @@ Nous avons opté pour des bordures légèrement arrondies afin de donner au cham
 
 ### `icones`
 
-Nous avons utilisé des icones en svg en lieu des habituels librairies commme font-awesome en raison de l'envergure -moindre du projet.\
+Nous avons utilisé des icones en svg en lieu des habituels librairies commme font-awesome en raison de l'envergure -moindre du projet.
 
 ### `champs de saisi, labels et message d'erreur`
 
@@ -34,6 +34,6 @@ Cependant sur mobiles, ils sont transform en des elements "block level" qui occu
 
 L'image incitative àl'inscription vient avant le formulaire sur la version mobile et reste, comme sur le wireframe à coté du  formulaire sur la version mobile.
 
-### Validation, effets javascript
+## Validation, effets javascript
 
 Pour simplifier la validation et réduire la taille du code, nous avons opté pour l'API constraint validation qui permet de faire le gros du travail avec simplement des attributs HTML et gérer les erreurs au cas par cas.
