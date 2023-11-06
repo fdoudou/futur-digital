@@ -1,6 +1,6 @@
 # Démarche créative de la page d'incription
 
-### Choix de couleurs
+### `Choix de couleurs`
 
 Le design global est minimaliste et moderne axé sur les parties interactives
 Il permet à l'utilisateur de rester focus sur l'esssentiel en limitant les éléments purement décoratifs qui peuvent distraire l'utilisateur
