@@ -19,9 +19,8 @@ Nous avons utilisé des icones en svg en lieu des habituels librairies commme fo
 
 ### `champs de saisi, labels et message d'erreur`
 
-Les champs de saisi sont larges et gras pour une meilleure visibilité.\
-
-Ils ont été combinés avec leurs labels respectifs afin d'obtenir l'effet de "flottage".\
+Les champs de saisi sont larges et gras pour une meilleure visibilité.
+Ils ont été combinés avec leurs labels respectifs afin d'obtenir l'effet de "flottage".
 
 Ce la est très important dans la mesure où le wireframe ne contient aucun label, qui est ici remplacé par le placeholder. Problème: losque l'utilisateur se met à saisir, le placeholder disparait cachant ainsi une information cruciale à l'utilisteur à savoir l'informaation à saisir.
 
@@ -29,7 +28,7 @@ En cas d'eurreurs sur l'un des inputs, nous utilisons la class `invalid` de boos
 
 ## Conteneurs, Grids , flexbox
 
-Les boutons sont conformes au wireframe pour les versions tablettes et ordinateurs.\
+Les boutons sont conformes au wireframe pour les versions tablettes et ordinateurs.
 Cependant sur mobiles, ils sont transform en des elements "block level" qui occuppent toute la largeur de l''ecran et s'empillent.
 
 L'image incitative àl'inscription vient avant le formulaire sur la version mobile et reste, comme sur le wireframe à coté du  formulaire sur la version mobile.
